@@ -11,4 +11,4 @@ In this capstone, we predict whether the Falcon 9 first stage will land successf
 * [`Lab2A`](W2A_Exploratory_Data_Analysis_with_SQL.ipynb): Exploratory Data Analysis on the SpaceX dataset using SQL. 
 * [`Lab2B`](W2B_Exploratory_Data_Analysis_with_Pandas.ipynb): Exploratory Data Analysis and Feature Engineering with `Pandas` & `Matplotlib`.
 * [`Lab3A`](W3A_Interactive_Visual_Analytics_with_Folium.ipynb): SpaceX Launch Sites Locations Analysis with `Folium`, see a snapshot [here](W3A_launch_site_marker_cluster.png). 
-* [`Lab3B`](W3B_SpaceX_Dash_App.py): Build an interactive dashboard with `Plotly`, see a snapshot [here](dashboard-1-ipad.jpg).
+* [`Lab3B`](W3B_SpaceX_Dash_App.py): Build an interactive dashboard with `Plotly`, see a snapshot [here](W3B-dashboard-1-ipad.jpg).
