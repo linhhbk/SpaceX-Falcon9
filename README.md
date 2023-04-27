@@ -31,7 +31,7 @@ The project was conducted through the following labs, in the chronological order
 * [`Lab4`](W4_SpaceX_Machine_Learning_Prediction.ipynb): Predictive Analysis (Classification) with Machine Learning Models
 
 
-## Results
+## Project Report
 A complete project report can be found [here](ds-capstone-project-report.pdf). 
 
 ![](project-report-coverpage.png)
