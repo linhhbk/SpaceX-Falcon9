@@ -8,9 +8,19 @@ In this capstone, we collect a record for each payload carried during a SpaceX m
 predict whether the Falcon 9 first stage will land successfully. 
 
 
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif "An example of a successful landing.")
+<p align="center">
+  <img src="landing_1.gif"  width="550"><br>
+  <em>An example of a successful landing</em>
+</p>
+
+<p align="center">
+  <img src="crash.gif"  width="550"><br>
+  <em>An example of failed landings</em>
+</p>
 
 
+## Methodology
+The project was conducted through the following labs, in the chronological order: 
 * [`Lab1A`](W1A_Data_Collection_API_Lab.ipynb): Collecting the data via making a `get` request to the SpaceX API.
 * [`Lab1B`](W1A_Data_Collection_Webscraping.ipynb): Web Scraping for Falcon 9 and Falcon Heavy Launches Records from Wikipedia.
 * [`Lab1C`](W1B_Data_Wrangling.ipynb): Data Wrangling on the collected data.
@@ -21,3 +31,5 @@ predict whether the Falcon 9 first stage will land successfully.
 * [`Lab4`](W4_SpaceX_Machine_Learning_Prediction.ipynb): Predictive Analysis (Classification) with Machine Learning Models
 
 
+## Results
+A complete project report can be found [here](). 
