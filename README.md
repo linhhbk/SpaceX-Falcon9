@@ -11,13 +11,13 @@ predict whether the Falcon 9 first stage will land successfully.
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif "An example of a successful landing.")
 
 
-* [`Lab1A`](W1A_Data_Collection_API_Lab.ipynb): Collect SpaceX data via making a `get` request to the SpaceX API.
+* [`Lab1A`](W1A_Data_Collection_API_Lab.ipynb): Collecting the data via making a `get` request to the SpaceX API.
 * [`Lab1B`](W1A_Data_Collection_Webscraping.ipynb): Web Scraping for Falcon 9 and Falcon Heavy Launches Records from Wikipedia.
 * [`Lab1C`](W1B_Data_Wrangling.ipynb): Data Wrangling on the collected data.
-* [`Lab2A`](W2A_Exploratory_Data_Analysis_with_SQL.ipynb): Exploratory Data Analysis (EDA) using SQL. 
+* [`Lab2A`](W2A_Exploratory_Data_Analysis_with_SQL.ipynb): Exploratory Data Analysis (EDA) on the SpaceX dataset using SQL. 
 * [`Lab2B`](W2B_Exploratory_Data_Analysis_with_Pandas.ipynb): EDA and Feature Engineering with `Pandas` & `Matplotlib`.
-* [`Lab3A`](W3A_Interactive_Visual_Analytics_with_Folium.ipynb): Interactive Visual Analytics on SpaceX Launch Sites with `Folium`, see a snapshot [here](W3A_launch_site_marker_cluster.png). 
-* [`Lab3B`](W3B_SpaceX_Dash_App.py): Interactive Visual Analytics using `Plotly Dash`, see a snapshot [here](W3B-dashboard-1-ipad.jpg).
-* [`Lab4`](W4_SpaceX_Machine_Learning_Prediction.ipynb): Predictive Analysis on SpaceX dataset using Classification Models
+* [`Lab3A`](W3A_Interactive_Visual_Analytics_with_Folium.ipynb): SpaceX Launch Sites Analysis with `Folium`, see a snapshot [here](W3A_launch_site_marker_cluster.png). 
+* [`Lab3B`](W3B_SpaceX_Dash_App.py): Interactive Visual Analytics with `Plotly Dash`, see a snapshot [here](W3B-dashboard-1-ipad.jpg).
+* [`Lab4`](W4_SpaceX_Machine_Learning_Prediction.ipynb): Predictive Analysis on the SpaceX dataset using Classification Models
 
 
