@@ -18,6 +18,6 @@ predict whether the Falcon 9 first stage will land successfully.
 * [`Lab2B`](W2B_Exploratory_Data_Analysis_with_Pandas.ipynb): EDA and Feature Engineering with `Pandas` & `Matplotlib`.
 * [`Lab3A`](W3A_Interactive_Visual_Analytics_with_Folium.ipynb): Interactive Visual Analytics on SpaceX Launch Sites with `Folium`, see a snapshot [here](W3A_launch_site_marker_cluster.png). 
 * [`Lab3B`](W3B_SpaceX_Dash_App.py): Interactive Visual Analytics using `Plotly Dash`, see a snapshot [here](W3B-dashboard-1-ipad.jpg).
-* [`Lab4`](W4_SpaceX_Machine_Learning_Prediction.ipynb): Predictive Analysis using Classification Models
+* [`Lab4`](W4_SpaceX_Machine_Learning_Prediction.ipynb): Predictive Analysis on SpaceX dataset using Classification Models
 
 
