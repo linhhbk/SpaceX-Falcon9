@@ -28,7 +28,7 @@ The project was conducted through the following labs, in the chronological order
 * [`Lab2B`](W2B_Exploratory_Data_Analysis_with_Pandas.ipynb): EDA and Feature Engineering with `Pandas` & `Matplotlib`.
 * [`Lab3A`](W3A_Interactive_Visual_Analytics_with_Folium.ipynb): Build an Interactive Map with `Folium`, see a snapshot [here](W3A_launch_site_marker_cluster.png). 
 * [`Lab3B`](W3B_SpaceX_Dash_App.py): Build a Dashboard with `Plotly Dash`, see a snapshot [here](W3B-dashboard-1-ipad.jpg).
-* [`Lab4`](W4_SpaceX_Machine_Learning_Prediction.ipynb): Predictive Analysis (Classification) with Machine Learning Models
+* [`Lab4`](W4_SpaceX_Machine_Learning_Prediction.ipynb): Predictive Analysis (Classification) with Machine Learning Models.
 
 
 ## Project Report
