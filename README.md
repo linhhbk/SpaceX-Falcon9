@@ -34,6 +34,6 @@ The project was conducted through the following labs, in the chronological order
 ## Project Report
 A complete project report can be found [here](ds-capstone-project-report.pdf). 
 
-![](project-report-coverpage.png)
+[![](project-report-coverpage.png)](ds-capstone-project-report.pdf)
 
 
